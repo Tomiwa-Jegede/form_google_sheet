@@ -20,6 +20,7 @@ input{
   margin-bottom:10px;
 }
 form{
+  width:265px;
   display:flex;
   flex-direction:column;
   background: grey;
