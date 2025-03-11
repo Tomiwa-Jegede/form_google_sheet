@@ -19,6 +19,7 @@ input{
   margin-bottom:10px;
 }
 form{
+  width:530px;
   display:flex;
   flex-direction:column;
   background: grey;
